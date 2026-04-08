@@ -50,5 +50,13 @@
                 "model-output/Chronos-Chronos2/2026-04-08-Chronos-Chronos2.csv"
             ]
         }
+    ],
+    "ISI": [
+        {
+            "model": "GLEAM",
+            "changes": [
+                "model-output/ISI-GLEAM/2026-04-08-ISI-GLEAM.csv"
+            ]
+        }
     ]
 }
