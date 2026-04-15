@@ -17,6 +17,12 @@
             "changes": [
                 "model-output/ISI-GLEAM/2026-04-15-ISI-GLEAM.csv"
             ]
+        },
+        {
+            "model": "LSTFlu",
+            "changes": [
+                "model-output/ISI-LSTFlu/2026-04-15-ISI-LSTFlu.csv"
+            ]
         }
     ],
     "ItaLuxColab": [
