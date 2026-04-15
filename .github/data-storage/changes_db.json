@@ -11,6 +11,12 @@
             "changes": [
                 "model-output/ISI-RespiVAR/2026-04-15-ISI-RespiVAR.csv"
             ]
+        },
+        {
+            "model": "GLEAM",
+            "changes": [
+                "model-output/ISI-GLEAM/2026-04-15-ISI-GLEAM.csv"
+            ]
         }
     ],
     "ItaLuxColab": [
