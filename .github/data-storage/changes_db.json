@@ -38,5 +38,13 @@
                 "model-output/ItaLuxColab-EpiNetEKF/2026-04-22-ItaLuxColab-EpiNetEKF.csv"
             ]
         }
+    ],
+    "ISI": [
+        {
+            "model": "FluBcast",
+            "changes": [
+                "model-output/ISI-FluBcast/2026-04-22-ISI-FluBcast.csv"
+            ]
+        }
     ]
 }
